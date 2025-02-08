@@ -2,13 +2,13 @@
 
 **IronForge**, a custom WordPress website designed for fitness enthusiasts. This website features a fully customized theme and a bespoke plugin for handling appointment form submissions.
 
-## Static Site
+### Static Site
 - See the static site [here](https://moolmancell.github.io/ironforge/)
 
-## Figma Design
+### Figma Design
 - See the Figma Design [here](https://www.figma.com/design/2suUSaCLF3HpxNUOFoO6eR/Iron-Forge?node-id=0-1&t=9uILdECAhLiDGzJ5-1)
   
-## Others
+### Others
 - [Screenshots](./screenshots.md)
 - [Sign Up Process]()
 
