@@ -4,10 +4,12 @@
 
 ## Features
 
+![Theme Screenshot](https://i.imgur.com/Q7y1QOo.png)
 ### Custom Theme
 - Developed specifically for **IronForge**.
 - Responsive and mobile-friendly design.
 
+![Plugin Screenshot](https://i.imgur.com/VYEqn7p.png)
 ### Custom Appointment Plugin
 - Handles gym appointment form submissions.
 - Stores and manages appointment requests.
