@@ -5,9 +5,11 @@
 ## Static Site
 - See the static site [here](https://moolmancell.github.io/ironforge/)
 
-## Documentation
-- [Screenshots]()
-- [Figma Design]()
+## Figma Design
+- See the Figma Design [here](https://www.figma.com/design/2suUSaCLF3HpxNUOFoO6eR/Iron-Forge?node-id=0-1&t=9uILdECAhLiDGzJ5-1)
+- 
+## Others
+- [Screenshots](./screenshots.md)
 - [Sign Up Process]()
 
 ## Features
