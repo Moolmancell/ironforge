@@ -2,6 +2,14 @@
 
 **IronForge**, a custom WordPress website designed for fitness enthusiasts. This website features a fully customized theme and a bespoke plugin for handling appointment form submissions.
 
+## Static Site
+- See the static site [here]()
+
+## Documentation
+- [Screenshots]()
+- [Figma Design]()
+- [Sign Up Process]()
+
 ## Features
 
 ![Theme Screenshot](https://i.imgur.com/Q7y1QOo.png)
