@@ -7,7 +7,7 @@
 
 ## Figma Design
 - See the Figma Design [here](https://www.figma.com/design/2suUSaCLF3HpxNUOFoO6eR/Iron-Forge?node-id=0-1&t=9uILdECAhLiDGzJ5-1)
-- 
+  
 ## Others
 - [Screenshots](./screenshots.md)
 - [Sign Up Process]()
