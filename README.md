@@ -11,8 +11,8 @@
 ### Others
 - [Screenshots](./screenshots.md)
 
-### Sign Up Process
-
+## Sign Up Process
+![Sign up Process]
 
 ## Features
 
