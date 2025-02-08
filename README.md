@@ -12,7 +12,7 @@
 - [Screenshots](./screenshots.md)
 
 ## Sign Up Process
-![Sign up Process]
+![Sign up Process](./screenrecordIronForge.gif)
 
 ## Features
 
