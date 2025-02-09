@@ -13,7 +13,7 @@
 
 ## Sign Up Process
 ![Sign up Process](./screenrecordIronForge.gif)
-
+1. The user enters his/her details in the provided form.2. The user will receive an email regarding the extra steps to be taken.3. After the user submitted the form. It was recorded in the database, and a specific UI was made for moderators to see the people who entered the form.
 ## Features
 
 ![Theme Screenshot](https://i.imgur.com/Q7y1QOo.png)
